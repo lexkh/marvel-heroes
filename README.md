@@ -7,6 +7,6 @@
 </tr>
 </table>
 <details>
-<summary>Screenshot of app page</summary><img src="https://github.com/lexkh/marvel-heroes/assets/100075440/8f785358-4bf5-48e8-b43d-f563d65f03b3"></details>
+<summary>Screenshot of site page</summary><img src="https://github.com/lexkh/marvel-heroes/assets/100075440/8f785358-4bf5-48e8-b43d-f563d65f03b3"></details>
 <h2>How can i run it?</h2>
 
